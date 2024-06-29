@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+ES+Deco:wght@100..400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Playwrite+ES+Deco:wght@100..400&family=Playwrite+MX:wght@100..400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&family=Noto+Sans+Telugu:wght@100..900&family=Playwrite+ES+Deco:wght@100..400&family=Playwrite+MX:wght@100..400&display=swap");
+nav {
+  display: inline-block;
+  border: 5px solid black;
+}
+.intro {
+  display: inline-block;
+  margin: 10px;
+  width: 1150px;
+}
+h1 {
+  text-align: center;
+}
+#para1 {
+  font-family: cursive;
+}
+#para2 {
+  font-family: "Playwrite ES Deco", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+#para3 {
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+#title {
+  font-size: 2rem;
+  background-color: lightslategray;
+  text-align: center;
+}
+h1 {
+  font-family: Chiller;
+  font-size: 5rem;
+  margin: 0px;
+  padding: 0px;
+}
+h2 {
+  font-family: Forte;
+  font-size: 2rem;
+  margin: 0px;
+  padding: 0px;
+}
+h3 {
+  font-family: Blackadder ITC;
+  font-size: 2rem;
+  margin: 0px;
+  padding: 0px;
+}
+#para4 {
+  font-family: "Courier New", Courier, monospace;
+}
+#para5 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: inherit;
+}
+#para6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: oblique;
+}
+#para7 {
+  font-family: cursive;
+}
+#para8 {
+  font-family: fantasy;
+  font-style: italic;
+}
+#para9 {
+  font-family: Bradley Hand ITC;
+  font-style: normal;
+  font-weight: 400;
+}
+#para10 {
+  font-family: Snap ITC;
+  font-weight: 300;
+}
+#para11 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 300;
+}
+#para12 {
+  font-family: Brush Script MT;
+  font-style: unset;
+  font-weight: 300;
+}
+#para13 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+  font-weight: 300;
+}
+#para14 {
+  font-family: French Script MT;
+  font-weight: 600;
+}
+#para15 {
+  font-family: Embassy BT;
+  font-weight: 600;
+}
+#para16 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+body{
+    font-size: 1rem;
+}
